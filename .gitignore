@@ -1,0 +1,15 @@
+tests/log.c
+
+*.o
+*.so
+*.dylib
+
+.vscode
+
+bin/
+bin/*
+
+flashcards
+
+*.db
+flashcards.db
